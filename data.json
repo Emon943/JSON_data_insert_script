@@ -1,0 +1,15 @@
+{
+ "datas":[
+     {
+	 "name":"Motiur",
+	 "email":"motiur943@gmail.com",
+	 "password":"123456"
+	 },
+
+     {
+	 "name":"Emon",
+	 "email":"emon943@gmail.com",
+	 "password":"123456"
+	 }  	 
+    ]
+}
